@@ -1,21 +1,21 @@
 # Disaster Watch – AI-Based Disaster Prediction System
 
-This project predicts natural disasters using a Machine Learning model.
+The following project utilizes a Machine Learning model to predict natural disasters.
 
 ## 🚀 Features
-- Predicts disaster type using Random Forest
-- Interactive dashboard with charts and maps
-- Real-time prediction using Flask
+- Disaster classification by applying the Random Forest algorithm
+- User interface with interactive visualization in graphs and maps
+- Live prediction using Flask framework
 
-## 🧠 Tech Stack
+## 🧠 Technology Stack
 - Python
 - Flask
 - Machine Learning (Random Forest)
 - HTML, CSS, JavaScript
-- Chart.js, Leaflet
+- Chart.js, Leaflet.js
 
-## 📊 Model Details
-- Used data preprocessing and feature engineering
-- Applied SMOTE for class balancing
-- Achieved ~66% accuracy
+## 📊 Model Information
+- Applied data preprocessing and features engineering
+- Used SMOTE to balance classes
+- Achieved around 66% accuracy
 
